@@ -5,3 +5,6 @@ Learning Resources from Different Topics Relevant to Career and Technology. Most
 - [Distributed Systems Course (Introductory)](https://www.distributedsystemscourse.com/)
 
 ## Machine Learning
+
+## Interesting Articles
+- [Why the PIE theorem is more relevant than the CAP theorem](https://www.alexdebrie.com/posts/choosing-a-database-with-pie/) - Choosing pattern flexiblity, efficiency, and infinite scale in a data system.
