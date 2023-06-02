@@ -7,4 +7,4 @@ Learning Resources from Different Topics Relevant to Career and Technology. Most
 ## Machine Learning
 
 ## Interesting Articles
-- [Why the PIE theorem is more relevant than the CAP theorem](https://www.alexdebrie.com/posts/choosing-a-database-with-pie/) - choosing pattern flexiblity, efficiency, and infinite scale in a data system.
+- [Why the PIE theorem is more relevant than the CAP theorem](https://www.alexdebrie.com/posts/choosing-a-database-with-pie/) - Balancing pattern flexiblity, efficiency, and infinite scale in a data system.
