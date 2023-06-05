@@ -2,7 +2,7 @@
 Learning Resources from Different Topics Relevant to Career and Technology. Most of these should be free.
 
 ## Distributed Systems
-- [ ] [Distributed Systems Course (Introductory)](https://www.distributedsystemscourse.com/)
+- [ ] [Distributed Systems Course (Introductory)](https://www.distributedsystemscourse.com/): ddd
 
 ## Machine Learning
 
