@@ -2,7 +2,7 @@
 Learning Resources from Different Topics Relevant to Career and Technology. Most of these should be free.
 
 ## Distributed Systems
-- [ ] [Distributed Systems Course (Introductory)](https://www.distributedsystemscourse.com/): ddd
+- [ ] [Distributed Systems Course (Introductory)](https://www.distributedsystemscourse.com/) - [Chris Colohan](https://www.colohan.com/) (CMU PhD, Google)
 
 ## Machine Learning
 
