@@ -1,9 +1,6 @@
 # Learning Resources
 Learning Resources from Different Topics Relevant to Career and Technology. Most of these should be free.
 
-## Blockchain
-- [x] [How does bitcoin work? (video)](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-
 ## Distributed Systems
 - [ ] [Distributed Systems Course (Introductory)](https://www.distributedsystemscourse.com/) [[Lectures](https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)] - [Chris Colohan](https://www.colohan.com/) (CMU PhD, Google)
 
