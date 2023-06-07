@@ -6,7 +6,7 @@ Learning Resources from Different Topics Relevant to Career and Technology. Most
 
 ## System Design
 - [ ] [Videos] [System Design Concepts You Need to Know](https://www.youtube.com/playlist?list=PL9nWRykSBSFjU7UGR37SFfOb1oMYLNhag) - Software engineer system design concepts
-  - [ ] [Reading] [Sharding with Amazon Relational Database Service] (https://aws.amazon.com/blogs/database/sharding-with-amazon-relational-database-service/)
+  - [ ] [Reading] [Sharding with Amazon Relational Database Service](https://aws.amazon.com/blogs/database/sharding-with-amazon-relational-database-service/)
 ## Databases
 
 ## Interesting Articles
