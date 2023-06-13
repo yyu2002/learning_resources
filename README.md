@@ -1,4 +1,4 @@
-# Learning Resources
+# Technology Learning Resources
 Learning Resources from Different Topics Relevant to Career and Technology. Most of these should be free.
 
 ## Distributed Systems
