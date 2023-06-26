@@ -6,7 +6,7 @@ Learning Resources from Different Topics Relevant to Career and Technology. Most
 
 ## System Design
 * [Important System Design Concepts](https://www.youtube.com/playlist?list=PL9nWRykSBSFjU7UGR37SFfOb1oMYLNhag) - Videos overviewing key software engineer system design concepts.
-* [Sharding with Amazon RDS](https://aws.amazon.com/blogs/database/sharding-with-amazon-relational-database-service/) - Great article about sharding.
+* [Sharding with Amazon RDS](https://aws.amazon.com/blogs/database/sharding-with-amazon-relational-database-service/) - Great article about database sharding.
 
 ## Interesting Articles
 * [Why the PIE theorem is more relevant than the CAP theorem](https://www.alexdebrie.com/posts/choosing-a-database-with-pie/) - Balancing pattern flexiblity, efficiency, and infinite scale in a data system.
