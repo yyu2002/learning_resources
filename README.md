@@ -2,7 +2,7 @@
 Learning Resources from Different Topics Relevant to Career and Technology. Most of these should be free.
 
 ## Distributed Systems
-* [Distributed Systems Course](https://www.distributedsystemscourse.com/) - Course with introductory concepts to distributed systems from Chris Colohan (CMU PhD, Google).
+* [Distributed Systems Course](https://www.distributedsystemscourse.com/) - Course with introductory concepts to distributed systems.
 
 ## System Design
 * [Important System Design Concepts](https://www.youtube.com/playlist?list=PL9nWRykSBSFjU7UGR37SFfOb1oMYLNhag) - Videos overviewing key software engineer system design concepts.
