@@ -2,7 +2,7 @@
 Learning Resources from Different Topics Relevant to Career and Technology. Most of these should be free.
 
 ## Distributed Systems
-* [Distributed Systems Course](https://www.distributedsystemscourse.com/) - Course with introductory concepts to distributed systems.
+* [Distributed Systems Course](https://www.distributedsystemscourse.com/) [2016] - Course with introductory concepts to distributed systems.
 
 ## System Design
 * [System Design Concepts I](https://www.youtube.com/playlist?list=PL9nWRykSBSFjU7UGR37SFfOb1oMYLNhag) - Videos from an Amazon SDE overviewing key system design concepts for software engineers.
