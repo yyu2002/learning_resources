@@ -1,8 +1,14 @@
 # Learning Resources
 Learning Resources from Different Topics Relevant to Career and Technology. Most of these should be free.
 
+## Databases
+* [Sharding with Amazon RDS](https://aws.amazon.com/blogs/database/sharding-with-amazon-relational-database-service/) [2019] - Great article about database sharding.
+
 ## Distributed Systems
 * [Distributed Systems Course](https://www.distributedsystemscourse.com/) [2016] - Course with introductory concepts to distributed systems.
+
+## Software Design
+* [Software Design Patterns (Java)](https://www.youtube.com/playlist?list=PL9nWRykSBSFjpcxZZFu8dePpYh2GJlm8I) [2020] - Videos from an Amazon SDE covering essential software design patterns for giving structure and elegance to your code.
 
 ## System Design
 * [System Design Concepts I](https://www.youtube.com/playlist?list=PL9nWRykSBSFjU7UGR37SFfOb1oMYLNhag) [2022]- Videos from an Amazon SDE overviewing key system design concepts for software engineers.
@@ -10,13 +16,10 @@ Learning Resources from Different Topics Relevant to Career and Technology. Most
 * [System Design Concepts III](https://www.youtube.com/playlist?list=PLjTveVh7FakKjb4UYzUazqBNNF-WGurXp) [[slides](https://drive.google.com/drive/folders/1ChodcbMZ4KqS9WP9gin4sLVdCsgD3uoE)] [2022] - Videos from a Google SWE covering a myriad of system design topics at a much lower level.
 * [System Design Case Studies](https://www.youtube.com/playlist?list=PL9nWRykSBSFiyg7uv5TiTlNYbW0S9sDmQ) [2023] -  Videos from an Amazon SDE going through case studies of system design in real world companies and scenarios.
 
-## Software Design
-* [Software Design Patterns (Java)](https://www.youtube.com/playlist?list=PL9nWRykSBSFjpcxZZFu8dePpYh2GJlm8I) [2020] - Videos from an Amazon SDE covering essential software design patterns for giving structure and elegance to your code.
+## UI/UX and Design
+* [Human Interface Guidelines - Apple](https://developer.apple.com/design/human-interface-guidelines) - Apples guidelines for UI/UX and design.
 
-
-
-## Databases
-* [Sharding with Amazon RDS](https://aws.amazon.com/blogs/database/sharding-with-amazon-relational-database-service/) [2019] - Great article about database sharding.
-
-## Interesting Articles
+## (: Interesting Articles :)
 * [Why the PIE theorem is more relevant than the CAP theorem](https://www.alexdebrie.com/posts/choosing-a-database-with-pie/) [2019] - Balancing pattern flexiblity, efficiency, and infinite scale in a data system.
+
+
