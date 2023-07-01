@@ -8,6 +8,7 @@ Learning Resources from Different Topics Relevant to Career and Technology. Most
 * [System Design Concepts I](https://www.youtube.com/playlist?list=PL9nWRykSBSFjU7UGR37SFfOb1oMYLNhag) [2022]- Videos from an Amazon SDE overviewing key system design concepts for software engineers.
 * [System Design Concepts II](https://www.youtube.com/playlist?list=PLtZafdfRI4M5blB0jpYtlg70l-W4xVQnO) [2021] - Videos from a Microsoft SWE covering system design fundamentals.
 * [System Design Concepts III](https://www.youtube.com/playlist?list=PLjTveVh7FakKjb4UYzUazqBNNF-WGurXp) [[slides](https://drive.google.com/drive/folders/1ChodcbMZ4KqS9WP9gin4sLVdCsgD3uoE)] [2022] - Videos from a Google SWE covering a myriad of system design topics at a much lower level.
+* [System Design Case Studies](https://www.youtube.com/playlist?list=PL9nWRykSBSFiyg7uv5TiTlNYbW0S9sDmQ) [2023] -  Videos from an Amazon SDE going through case studies of system design in real world companies and scenarios.
 
 ## Software Design
 * [Software Design Patterns (Java)](https://www.youtube.com/playlist?list=PL9nWRykSBSFjpcxZZFu8dePpYh2GJlm8I) [2020] - Videos from an Amazon SDE covering essential software design patterns for giving structure and elegance to your code.
