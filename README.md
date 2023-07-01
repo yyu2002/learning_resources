@@ -7,7 +7,7 @@ Learning Resources from Different Topics Relevant to Career and Technology. Most
 ## System Design
 * [System Design Concepts I](https://www.youtube.com/playlist?list=PL9nWRykSBSFjU7UGR37SFfOb1oMYLNhag) [2022]- Videos from an Amazon SDE overviewing key system design concepts for software engineers.
 * [System Design Concepts II](https://www.youtube.com/playlist?list=PLtZafdfRI4M5blB0jpYtlg70l-W4xVQnO) [2021] - Videos from a Microsoft SWE covering system design fundamentals.
-* * [System Design Concepts III](https://www.youtube.com/playlist?list=PLjTveVh7FakKjb4UYzUazqBNNF-WGurXp) [[slides](https://drive.google.com/drive/folders/1ChodcbMZ4KqS9WP9gin4sLVdCsgD3uoE)] [2022] - Videos from a Google SWE covering a myriad of system design topics at a much lower level.
+* [System Design Concepts III](https://www.youtube.com/playlist?list=PLjTveVh7FakKjb4UYzUazqBNNF-WGurXp) [[slides](https://drive.google.com/drive/folders/1ChodcbMZ4KqS9WP9gin4sLVdCsgD3uoE)] [2022] - Videos from a Google SWE covering a myriad of system design topics at a much lower level.
 
 ## Databases
 * [Sharding with Amazon RDS](https://aws.amazon.com/blogs/database/sharding-with-amazon-relational-database-service/) [2019] - Great article about database sharding.
