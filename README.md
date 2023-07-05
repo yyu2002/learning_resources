@@ -18,7 +18,7 @@ Learning Resources from Different Topics Relevant to Career and Technology. Most
 
 ## UI/UX and Design
 * [Human Interface Guidelines - Apple](https://developer.apple.com/design/human-interface-guidelines) - Apples guidelines for UI/UX and design.
-* [UXmatters - UX Topics](https://www.uxmatters.com/topics/) - Articles about UX topics, concepts, and research.
+* [UXmatters - UX Topics](https://www.uxmatters.com/topics/) - Articles about UX topics, concepts, and research. Topics including business, development, community, design, experiences, process, research, reviews, and strategy.
 
 
 ## (: Interesting Articles :)
