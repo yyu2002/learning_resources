@@ -18,6 +18,8 @@ Learning Resources from Different Topics Relevant to Career and Technology. Most
 
 ## UI/UX and Design
 * [Human Interface Guidelines - Apple](https://developer.apple.com/design/human-interface-guidelines) - Apples guidelines for UI/UX and design.
+* [UXmatters - UX Topics](https://www.uxmatters.com/topics/) - Articles about UX topics, concepts, and research.
+
 
 ## (: Interesting Articles :)
 * [Why the PIE theorem is more relevant than the CAP theorem](https://www.alexdebrie.com/posts/choosing-a-database-with-pie/) [2019] - Balancing pattern flexiblity, efficiency, and infinite scale in a data system.
